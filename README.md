@@ -20,7 +20,7 @@ npm start run
 
 ### Use
 
-Launch Postman to do some queries :
+You can use Postman to test the API (https://www.getpostman.com).
 
 #### POST a list of events
 ```
