@@ -17,7 +17,11 @@ npm start run
 ```
 
 By default the server uses the port 3000 and the Mongodb database URI is `mongodb://localhost/HeroBackEndTestdb`.
-You can modify these variables by adding a .env file.
+You can modify these variables by adding a .env file :
+```
+PORT=your_custom_port
+MONGO_URL=your_custom_mongodbURI
+```
 
 ### Use
 
