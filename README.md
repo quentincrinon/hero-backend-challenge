@@ -2,7 +2,7 @@
 
 ### Installing
 
-Clone the repository on your machine and install all the dependences.
+Clone the repository on your machine and install all the dependencies.
 
 ```
 git clone git@github.com:quentincrinon/hero-backend-challenge.git
@@ -16,7 +16,7 @@ Then run the server:
 npm start run
 ```
 
-By default the server uses the port 3000 and the Mongodb database url is `mongodb://localhost/HeroBackEndTestdb`.
+By default the server uses the port 3000 and the Mongodb database URI is `mongodb://localhost/HeroBackEndTestdb`.
 You can modify these variables by adding a .env file.
 
 ### Use
